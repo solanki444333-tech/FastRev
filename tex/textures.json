@@ -52,5 +52,215 @@
   "name": "Grainy gradient",
   "file": "grainy-gradient.jpg",
   "light": 0.246
- }
+ },
+ {
+  "id": 11,
+  "name": "Pin 1",
+  "file": "pin1.jpg",
+  "light": 0.5
+},
+{
+  "id": 12,
+  "name": "Pin 2",
+  "file": "pin2.jpg",
+  "light": 0.5
+},
+{
+  "id": 13,
+  "name": "Pin 3",
+  "file": "pin3.jpg",
+  "light": 0.5
+},
+{
+  "id": 14,
+  "name": "Pin 4",
+  "file": "pin4.jpg",
+  "light": 0.5
+},
+{
+  "id": 15,
+  "name": "Pin 5",
+  "file": "pin5.jpg",
+  "light": 0.5
+},
+{
+  "id": 16,
+  "name": "Pin 6",
+  "file": "pin6.jpg",
+  "light": 0.5
+},
+{
+  "id": 17,
+  "name": "Pin 7",
+  "file": "pin7.jpg",
+  "light": 0.5
+},
+{
+  "id": 18,
+  "name": "Pin 8",
+  "file": "pin8.jpg",
+  "light": 0.5
+},
+{
+  "id": 19,
+  "name": "Pin 9",
+  "file": "pin9.jpg",
+  "light": 0.5
+},
+{
+  "id": 20,
+  "name": "Pin 10",
+  "file": "pin10.jpg",
+  "light": 0.5
+},
+{
+  "id": 21,
+  "name": "Pin 11",
+  "file": "pin11.jpg",
+  "light": 0.5
+},
+{
+  "id": 22,
+  "name": "Pin 12",
+  "file": "pin12.jpg",
+  "light": 0.5
+},
+{
+  "id": 23,
+  "name": "Pin 13",
+  "file": "pin13.jpg",
+  "light": 0.5
+},
+{
+  "id": 24,
+  "name": "Pin 14",
+  "file": "pin14.jpg",
+  "light": 0.5
+},
+{
+  "id": 25,
+  "name": "Pin 15",
+  "file": "pin15.jpg",
+  "light": 0.5
+},
+{
+  "id": 26,
+  "name": "Pin 16",
+  "file": "pin16.jpg",
+  "light": 0.5
+},
+{
+  "id": 27,
+  "name": "Pin 17",
+  "file": "pin17.jpg",
+  "light": 0.5
+},
+{
+  "id": 28,
+  "name": "Pin 18",
+  "file": "pin18.jpg",
+  "light": 0.5
+},
+{
+  "id": 29,
+  "name": "Pin 19",
+  "file": "pin19.jpg",
+  "light": 0.5
+},
+{
+  "id": 30,
+  "name": "Pin 20",
+  "file": "pin20.jpg",
+  "light": 0.5
+},
+{
+  "id": 31,
+  "name": "Pin 21",
+  "file": "pin21.jpg",
+  "light": 0.5
+},
+{
+  "id": 32,
+  "name": "Pin 22",
+  "file": "pin22.jpg",
+  "light": 0.5
+},
+{
+  "id": 33,
+  "name": "Pin 23",
+  "file": "pin23.jpg",
+  "light": 0.5
+},
+{
+  "id": 34,
+  "name": "Pin 24",
+  "file": "pin24.jpg",
+  "light": 0.5
+},
+{
+  "id": 35,
+  "name": "Pin 25",
+  "file": "pin25.jpg",
+  "light": 0.5
+},
+{
+  "id": 36,
+  "name": "Pin 26",
+  "file": "pin26.jpg",
+  "light": 0.5
+},
+{
+  "id": 37,
+  "name": "Pin 27",
+  "file": "pin27.jpg",
+  "light": 0.5
+},
+{
+  "id": 38,
+  "name": "Pin 28",
+  "file": "pin28.jpg",
+  "light": 0.5
+},
+{
+  "id": 39,
+  "name": "Pin 29",
+  "file": "pin29.jpg",
+  "light": 0.5
+},
+{
+  "id": 40,
+  "name": "Pin 30",
+  "file": "pin30.jpg",
+  "light": 0.5
+},
+{
+  "id": 41,
+  "name": "Pin 31",
+  "file": "pin31.jpg",
+  "light": 0.5
+},
+{
+  "id": 42,
+  "name": "Pin 32",
+  "file": "pin32.jpg",
+  "light": 0.5
+},
+{
+  "id": 43,
+  "name": "Pin 33",
+  "file": "pin33.jpg",
+  "light": 0.5
+},
+{
+  "id": 44,
+  "name": "Pin 34",
+  "file": "pin34.jpg",
+  "light": 0.5
+},
+{
+  "id": 45,
+  "name": "Pin 35",
+  "file": "pin35.jpg",
+  "light": 0.5
+}
 ]
