@@ -747,7 +747,7 @@
   ];
   var texOpen = false;
   function texExists(i) { return i === 0 || TX.some(function (t) { return t.id === i; }); }
-  function texOf(i) { for (var k = 0; k < TX.length; k++) if (TX[k].id === i) return { n: TX[k].n, l: TX[k].l, u: 'tex/' + encodeURIComponent(TX[k].f) }; return { n: '', l: 0.5, u: '' }; }
+  function texOf(i) { for (var k = 0; k < TX.length; k++) if (TX[k].id === i) return { n: TX[k].n, l: TX[k].l, u: 'textures/' + encodeURIComponent(TX[k].f) }; return { n: '', l: 0.5, u: '' }; }
   function loadTexList() {
     try {
       fetch('tex/textures.json', { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (j) {
