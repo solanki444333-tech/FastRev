@@ -1662,7 +1662,7 @@
       var snapNow = snapKey(themeSnap());
       tpList.forEach(function (pp) {
         m += it('tpApply', cur(snapKey(pp.s) === snapNow) + 'Preset ' + pp.n, 'sub', pp.n);
-        if (tpAct === pp.n) m += it('tpReplace', 'Replace with current values', 'sub2', pp.n) + it('tpDelete', 'Delete this preset', 'danger sub2', pp.n) + it('tpAct0', 'Cancel', 'sub2');
+        if (tpAct === pp.n) m += it('tpReplace', 'Overide with current values', 'sub2', pp.n) + it('tpDelete', 'Delete this preset', 'danger sub2', pp.n) + it('tpAct0', 'Cancel', 'sub2');
       });
       m += tpList.length ? '<div class="mrow" style="padding-top:2px">Press and hold a preset for more options</div>' : '<div class="mrow">No presets saved yet</div>';
       m += it('tpMake', 'Make current theme a preset', 'sub');
