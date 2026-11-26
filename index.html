@@ -2230,7 +2230,9 @@
         document.addEventListener('pointerdown', function (e) {
           var b = e.target.closest && e.target.closest('.mi[data-act="apTog"][data-v="sw"]'); if (!b) return;
           fx = e.clientX; fy = e.clientY; clearTimeout(fadeTimer);
-          fadeTimer = setTimeout(function () { fadeTimer = 0; suppress = true; ap.fade = !ap.fade; apSave(); showToast('Long press toggles the card fade effect while swiping.', 3500); render(); setTimeout(function () { suppress = false; }, 900); }, 550);
+          fadeTimer = setTimeout(function () { fadeTimer = 0; suppress = true; ap.fade = !ap.fade; apSave(); 
+                                              showToast(ap.fade ? 'Enabled fade effect while swiping cards' : 'Disabled fade effect while swiping cards', 2500);
+                                              render(); setTimeout(function () { suppress = false; }, 900); }, 550);
         });
         document.addEventListener('pointermove', function (e) { if (fadeTimer && (Math.abs(e.clientX - fx) > 14 || Math.abs(e.clientY - fy) > 14)) { clearTimeout(fadeTimer); fadeTimer = 0; } }, true);
         ['pointerup', 'pointercancel', 'scroll'].forEach(function (n) { document.addEventListener(n, function () { clearTimeout(fadeTimer); fadeTimer = 0; }, true); });
