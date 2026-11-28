@@ -262,5 +262,161 @@
   "name": "Pin 35",
   "file": "pin35.jpg",
   "light": 0.5
+},
+ {
+  "id": 46,
+  "name": "Pin 36",
+  "file": "pin36.jpg",
+  "light": 0.5
+},
+{
+  "id": 47,
+  "name": "Pin 37",
+  "file": "pin37.jpg",
+  "light": 0.5
+},
+{
+  "id": 48,
+  "name": "Pin 38",
+  "file": "pin38.jpg",
+  "light": 0.5
+},
+{
+  "id": 49,
+  "name": "Pin 39",
+  "file": "pin39.jpg",
+  "light": 0.5
+},
+{
+  "id": 50,
+  "name": "Pin 40",
+  "file": "pin40.jpg",
+  "light": 0.5
+},
+{
+  "id": 51,
+  "name": "Pin 41",
+  "file": "pin41.jpg",
+  "light": 0.5
+},
+{
+  "id": 52,
+  "name": "Pin 42",
+  "file": "pin42.jpg",
+  "light": 0.5
+},
+{
+  "id": 53,
+  "name": "Pin 43",
+  "file": "pin43.jpg",
+  "light": 0.5
+},
+{
+  "id": 54,
+  "name": "Pin 44",
+  "file": "pin44.jpg",
+  "light": 0.5
+},
+{
+  "id": 55,
+  "name": "Pin 45",
+  "file": "pin45.jpg",
+  "light": 0.5
+},
+{
+  "id": 56,
+  "name": "Pin 46",
+  "file": "pin46.jpg",
+  "light": 0.5
+},
+{
+  "id": 57,
+  "name": "Pin 47",
+  "file": "pin47.jpg",
+  "light": 0.5
+},
+{
+  "id": 58,
+  "name": "Pin 48",
+  "file": "pin48.jpg",
+  "light": 0.5
+},
+{
+  "id": 59,
+  "name": "Pin 49",
+  "file": "pin49.jpg",
+  "light": 0.5
+},
+{
+  "id": 60,
+  "name": "Pin 50",
+  "file": "pin50.jpg",
+  "light": 0.5
+},
+{
+  "id": 61,
+  "name": "Pin 51",
+  "file": "pin51.jpg",
+  "light": 0.5
+},
+{
+  "id": 62,
+  "name": "Pin 52",
+  "file": "pin52.jpg",
+  "light": 0.5
+},
+{
+  "id": 63,
+  "name": "Pin 53",
+  "file": "pin53.jpg",
+  "light": 0.5
+},
+{
+  "id": 64,
+  "name": "Pin 54",
+  "file": "pin54.jpg",
+  "light": 0.5
+},
+{
+  "id": 65,
+  "name": "Pin 55",
+  "file": "pin55.jpg",
+  "light": 0.5
+},
+{
+  "id": 66,
+  "name": "Pin 56",
+  "file": "pin56.jpg",
+  "light": 0.5
+},
+{
+  "id": 67,
+  "name": "Pin 57",
+  "file": "pin57.jpg",
+  "light": 0.5
+},
+{
+  "id": 68,
+  "name": "Pin 58",
+  "file": "pin58.jpg",
+  "light": 0.5
+},
+{
+  "id": 69,
+  "name": "Pin 59",
+  "file": "pin59.jpg",
+  "light": 0.5
+},
+{
+  "id": 70,
+  "name": "Pin 60",
+  "file": "pin60.jpg",
+  "light": 0.5
+},
+{
+  "id": 71,
+  "name": "Pin 61",
+  "file": "pin61.jpg",
+  "light": 0.5
 }
 ]
